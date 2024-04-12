@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Devaprasad A S
+## Hi there 👋 It's me Devaprasad A s
 
 Fullstack web developer fresher
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -24,7 +24,9 @@ Fullstack web developer fresher
 
 
 
-![Devaprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Devaprasad's GitHub stats](![deva-prasad03's Stats](https://github-readme-stats.vercel.app/api?username=deva-prasad03&theme=vue-dark&show_icons=true&hide_border=false&count_private=true))
+![Devaprasad's GitHub stats](![![deva-prasad03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deva-prasad03&theme=vue-dark&hide_border=false))
+![Devaprasad's GitHub stats](![deva-prasad03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deva-prasad03&theme=vue-dark&show_icons=true&hide_border=false&layout=compact))
 
 
 [![Devaprasad's github activity graph][![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deva-prasad03&bg_color=000000&color=fffffa&line=1887dc&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
