@@ -22,7 +22,7 @@ Fullstack web developer fresher
 
 
 ![deva-prasad03's Stats](https://github-readme-stats.vercel.app/api?username=deva-prasad03&theme=yeblu&show_icons=true&hide_border=false&count_private=true)
-![deva-prasad03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deva-prasad03&theme=vue&hide_border=false)
 <br>
 ![deva-prasad03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deva-prasad03&theme=yeblu&hide_border=false)
+<br>
 ![deva-prasad03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deva-prasad03&theme=yeblu&show_icons=true&hide_border=false&layout=compact)
