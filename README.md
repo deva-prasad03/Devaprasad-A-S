@@ -8,7 +8,7 @@ Fullstack web developer fresher
 - 🤔 I’m looking for web Development projects 
 - 💬 Ask me about C,Python,java,javascript
 - 📫 How to reach me :
-- ![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD&link=mailto:devaprasadsakthivel@gmail.com)
+- !<img src = "(https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD&link=mailto:devaprasadsakthivel@gmail.com)">
 
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deva-prasad43/)
 - 😄 Pronouns: Techie
