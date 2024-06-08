@@ -9,7 +9,7 @@ Fullstack web developer fresher
 - 💬 Ask me about C,Python,java,javascript
 - 📫 How to reach me :
 - ![Email Badge](https://img.shields.io/badge/Gmail-Deva-violet?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD&link=mailto:devaprasadsakthivel@gmail.com)
-- [![linkedin](https://app-generated-url)]([https://your-linkedin-profile-url](https://www.linkedin.com/in/deva-prasad43/))
+- [![Full Color Badge](https://badgeprint.com/BadgePrint/products/full-color-digital-badges/FC-100.jpg)](https://www.linkedin.com/in/deva-prasad43/)
 - 😄 Pronouns: Techie
 - ⚡ Passionate:Chess player
 
